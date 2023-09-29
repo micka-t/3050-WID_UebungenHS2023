@@ -1,0 +1,18 @@
+1.4)    a) alle Buttons mit button {"styles"} in CSS
+        b) einige Buttons mit Klassendefinition in CSS
+        c) einzelner Button mit Inline oder ID in CSS
+        Die beiden Styles egal ob mit Inline oder ID in CSS sehen genau gleich aus!
+
+1.6)    Die Style Definition im Inline überschreibt die Style Information in CSS.
+
+2.2)    Für die grundlegenden Style wurde ein Klassendefinition mit CSS gewählt und für die einzelnen
+        Hintergrundfarben jeweils im Inline einen Style definiert.
+
+2.3)    Das span Element wird egal wie die grösse definiert wurde im Style CSS nur so gross dargestellt
+        wie der Text ist. Wenn kein Text vorhanden ist wird nur ein dünner Strich dargestellt.
+
+2.5)    Positionierung: "center" = Zentriert aneinandergereiht
+                        "left" = Linksbündig aneinandergereiht
+                        "right" = Rechtsbündig aneinandergereiht
+                        "space-between" = Zentriert mit Abstand zwischen Elementen
+                        "space-around" = Zentriert mit Abstand zwischen Elementen und ausserhalb der Elemente
